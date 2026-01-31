@@ -1,7 +1,7 @@
 [<h1 align="center">Hi 👋, I'm Bhoomi</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **python**
 
 - 📫 How to reach me **bhoomijarwani2006@gmail.com**
 
